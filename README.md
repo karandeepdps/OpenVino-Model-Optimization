@@ -15,5 +15,8 @@ After you are done with installation dont forget to add setupvars to your bash f
 3. Run OpenVino_Optimizer.sh to optimize the freezed model.
 4. Run Inference.py to load your optimized code.
 
-###References:
+### References:
+1. https://docs.openvinotoolkit.org/latest/_docs_MO_DG_Deep_Learning_Model_Optimizer_DevGuide.html
+2. https://www.dlology.com/blog/how-to-run-keras-model-inference-x3-times-faster-with-cpu-and-intel-openvino-1/
+3. https://medium.com/@fernandorodriguesjunior/speed-up-inceptionv3-inference-time-up-to-18x-using-intel-core-processor-43d742d9bac
 
